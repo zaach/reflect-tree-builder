@@ -22,6 +22,10 @@ Example:
 
     visit(ast, null, function (n) { console.log(n.type); });
 
+## Install
+
+    npm install reflect-tree-builder
+
 ## Node Properties
 See the [Mozilla](https://developer.mozilla.org/en/SpiderMonkey/Parser_API#Node_objects) documentation for the default node APIs. The following are additional properties the tree builder provides.
 
