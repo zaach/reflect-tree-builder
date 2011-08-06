@@ -1,0 +1,15 @@
+{
+  "author": "Zach Carter <zcarter@cse.usf.edu> (http://zaa.ch)",
+  "name": "reflect-builder",
+  "description": "Default AST builder for reflect.js",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/zaach/reflect-builder"
+  },
+  "main": "lib/builder.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}

@@ -1,0 +1,17 @@
+{
+  "author": "Zach Carter <zcarter@cse.usf.edu> (http://zaa.ch)",
+  "name": "reflect-tree-builder",
+  "description": "A more tree-like AST builder for reflect.js",
+  "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/zaach/reflect-tree-builder"
+  },
+  "main": "lib/builder.js",
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+    "reflect-builder": "*"
+  },
+  "devDependencies": {}
+}
