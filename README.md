@@ -7,7 +7,7 @@ The tree builder creates default nodes extended with properties and methods for 
 Example:
 
     var Reflect = require('reflect');
-    var treeBuilder = require('reflect-builder');
+    var treeBuilder = require('reflect-tree-builder');
 
     var source = "a + b + c(5)";
     var ast = Reflect.parse(source, {builder: treeBuilder});
